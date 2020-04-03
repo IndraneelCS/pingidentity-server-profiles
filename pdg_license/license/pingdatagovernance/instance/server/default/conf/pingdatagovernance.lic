@@ -1,0 +1,12 @@
+ID=1649777
+Name=Geoff Beckworth
+Organization=Telstra Corporation Limited
+Product=PingDataGovernance with Symphonic
+Version=8.0
+IssueDate=2020-03-25
+EnforcementType=0
+ExpirationDate=2020-04-24
+Tier=Free
+PDPAPI=true
+SignCode=FF03
+Signature=302D021477B6F933438A095FED2EC72F1DA12D87E1A844470215008BF30E4295F634995319CDDA995DB418B2DCBE77
